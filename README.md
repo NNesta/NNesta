@@ -8,7 +8,6 @@
   Connect with me on [Linkedin](https://www.linkedin.com/in/nestor-ngabonziza-5a6767155/) <br>
   View my [portifolio](https://portifolio-nnesta.vercel.app/)<br>
   # CodewarsBadge
-My Codewars Badge:
 ![image](https://www.codewars.com/users/Ngabonziza/badges/large)
 
 Favorite Tech Tools & Technologies used:
