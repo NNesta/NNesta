@@ -3,7 +3,7 @@
 ### I am an Electronics and Telecommunication Engineer with great passion and enthusiasm in  Software Development.<br> 
 #### I am currently based in Kigali, Rwanda <br>
 
-  I’m currently learning React Native <br>
+  I’m currently learning Next js <br>
   Ask me anything, I am happy to help <br>
   Connect with me on [Linkedin](https://www.linkedin.com/in/nestor-ngabonziza-5a6767155/) <br>
   View my [portifolio](https://portifolio-nnesta.vercel.app/)<br>
@@ -11,6 +11,7 @@
  [![image](https://www.codewars.com/users/Ngabonziza/badges/large)](https://www.codewars.com/users/Ngabonziza)
 
 Favorite Tech Tools & Technologies used:
+- Next js
 - TailwindCSS
 - CSS
 - ReactJS
